@@ -1,1 +1,1 @@
-Wineskin-2.9.2.1-rc7
+Wineskin-2.9.2.1-rc8
